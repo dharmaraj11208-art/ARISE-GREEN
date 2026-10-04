@@ -1,0 +1,6 @@
+{
+  "name": "ARISE GREEN",
+  "description": "Electronic waste diversion and component reuse platform with real-time capacity safety monitoring, component inventory, and intelligent project feasibility scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
